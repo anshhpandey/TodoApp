@@ -1,0 +1,13 @@
+
+input{
+  width: 35%;
+  height: 42px;
+  align-items: center;
+}
+
+.table{
+  width: 100%;
+}
+.button{
+  width: 25%;
+}
