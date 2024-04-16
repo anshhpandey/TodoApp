@@ -37,7 +37,7 @@ const Form = ({setTodos,todos,id,setId}) => {
 
     const updateById = (id) => {
   
-       setTodos((prevData)=> prevData.map((todo)=>todo.id === id ? {...todo,...obj``}:todo))
+       setTodos((prevData)=> prevData.map((todo)=>todo.id === id ? {...todo,...obj}:todo))
     }
     
   return (
